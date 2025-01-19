@@ -2,8 +2,9 @@ import "./styles/globals.scss";
 import "./styles/structure.scss";
 import "./styles/font.scss";
 import { Poppins, Open_Sans } from "next/font/google";
-import Navbar from "./components/Navbar";
 import StoreProvider from "./redux/StoreProvider";
+import Navbar from "./components/common/Navbar";
+import Footer from "./components/common/Footer";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -24,6 +25,7 @@ export default function HomeLayout({ children }) {
         <div>
           <Navbar />
           <StoreProvider>{children}</StoreProvider>
+          <Footer />
         </div>
       </body>
     </html>
