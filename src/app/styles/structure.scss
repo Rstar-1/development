@@ -19530,6 +19530,9 @@
   .lp-rounded-full {
     border-radius: 50% !important;
   }
+  .lp-rounded-5 {
+    border-radius: 5px !important;
+  }
   .lp-rounded-10 {
     border-radius: 10px !important;
   }
@@ -19562,6 +19565,9 @@
   .md-rounded-full {
     border-radius: 50% !important;
   }
+  .lp-rounded-5 {
+    border-radius: 5px !important;
+  }
   .md-rounded-10 {
     border-radius: 10px !important;
   }
@@ -19593,6 +19599,9 @@
   }
   .sm-rounded-full {
     border-radius: 50% !important;
+  }
+  .lp-rounded-5 {
+    border-radius: 5px !important;
   }
   .sm-rounded-10 {
     border-radius: 10px !important;
@@ -19968,3 +19977,291 @@
   }
 }
 /* ======================= End-Clamp ======================= */
+
+/* ======================= Start-Font-Weight ======================= */
+.font-100 {
+  font-weight: 100 !important;
+}
+.font-200 {
+  font-weight: 200 !important;
+}
+.font-300 {
+  font-weight: 300 !important;
+}
+.font-400 {
+  font-weight: 400 !important;
+}
+.font-500 {
+  font-weight: 500 !important;
+}
+.font-600 {
+  font-weight: 600 !important;
+}
+.font-700 {
+  font-weight: 700 !important;
+}
+.font-800 {
+  font-weight: 800 !important;
+}
+.font-900 {
+  font-weight: 900 !important;
+}
+@media (max-width: 1224px) and (min-width: 913px) {
+  .lp-font-100 {
+    font-weight: 100 !important;
+  }
+  .lp-font-200 {
+    font-weight: 200 !important;
+  }
+  .lp-font-300 {
+    font-weight: 300 !important;
+  }
+  .lp-font-400 {
+    font-weight: 400 !important;
+  }
+  .lp-font-500 {
+    font-weight: 500 !important;
+  }
+  .lp-font-600 {
+    font-weight: 600 !important;
+  }
+  .lp-font-700 {
+    font-weight: 700 !important;
+  }
+  .lp-font-800 {
+    font-weight: 800 !important;
+  }
+  .lp-font-900 {
+    font-weight: 900 !important;
+  }
+}
+@media (max-width: 912px) and (min-width: 641px) {
+  .md-font-100 {
+    font-weight: 100 !important;
+  }
+  .md-font-200 {
+    font-weight: 200 !important;
+  }
+  .md-font-300 {
+    font-weight: 300 !important;
+  }
+  .md-font-400 {
+    font-weight: 400 !important;
+  }
+  .md-font-500 {
+    font-weight: 500 !important;
+  }
+  .md-font-600 {
+    font-weight: 600 !important;
+  }
+  .md-font-700 {
+    font-weight: 700 !important;
+  }
+  .md-font-800 {
+    font-weight: 800 !important;
+  }
+  .md-font-900 {
+    font-weight: 900 !important;
+  }
+}
+@media (max-width: 640px) {
+  .sm-font-100 {
+    font-weight: 100 !important;
+  }
+  .sm-font-200 {
+    font-weight: 200 !important;
+  }
+  .sm-font-300 {
+    font-weight: 300 !important;
+  }
+  .sm-font-400 {
+    font-weight: 400 !important;
+  }
+  .sm-font-500 {
+    font-weight: 500 !important;
+  }
+  .sm-font-600 {
+    font-weight: 600 !important;
+  }
+  .sm-font-700 {
+    font-weight: 700 !important;
+  }
+  .sm-font-800 {
+    font-weight: 800 !important;
+  }
+  .sm-font-900 {
+    font-weight: 900 !important;
+  }
+}
+/* ======================= End-Font-Weight ======================= */
+
+/* ======================= Start-Text-Align ======================= */
+.text-center {
+  text-align: center !important;
+}
+.text-justify {
+  text-align: justify !important;
+}
+.text-left {
+  text-align: left !important;
+}
+.text-right {
+  text-align: right !important;
+}
+@media (max-width: 1224px) and (min-width: 913px) {
+  .lp-text-center {
+    text-align: center !important;
+  }
+  .lp-text-justify {
+    text-align: justify !important;
+  }
+  .lp-text-left {
+    text-align: left !important;
+  }
+  .lp-text-right {
+    text-align: right !important;
+  }
+}
+@media (max-width: 912px) and (min-width: 641px) {
+  .md-text-center {
+    text-align: center !important;
+  }
+  .md-text-justify {
+    text-align: justify !important;
+  }
+  .md-text-left {
+    text-align: left !important;
+  }
+  .md-text-right {
+    text-align: right !important;
+  }
+}
+@media (max-width: 640px) {
+  .sm-text-center {
+    text-align: center !important;
+  }
+  .sm-text-justify {
+    text-align: justify !important;
+  }
+  .sm-text-left {
+    text-align: left !important;
+  }
+  .sm-text-right {
+    text-align: right !important;
+  }
+}
+/* ======================= Emd-Text-Align ======================= */
+
+/* ======================= Start-Text-Decoration ======================= */
+.dashed {
+  text-decoration: dashed !important;
+}
+.dotted {
+  text-decoration: dotted !important;
+}
+.underline {
+  text-decoration: underline !important;
+}
+.line-through {
+  text-decoration: line-through !important;
+}
+.decoration-none {
+  text-decoration: none !important;
+}
+@media (max-width: 1224px) and (min-width: 913px) {
+  .lp-dashed {
+    text-decoration: dashed !important;
+  }
+  .lp-dotted {
+    text-decoration: dotted !important;
+  }
+  .lp-underline {
+    text-decoration: underline !important;
+  }
+  .lp-line-through {
+    text-decoration: line-through !important;
+  }
+  .lp-decoration-none {
+    text-decoration: none !important;
+  }
+}
+@media (max-width: 912px) and (min-width: 641px) {
+  .md-dashed {
+    text-decoration: dashed !important;
+  }
+  .md-dotted {
+    text-decoration: dotted !important;
+  }
+  .md-underline {
+    text-decoration: underline !important;
+  }
+  .md-line-through {
+    text-decoration: line-through !important;
+  }
+  .md-decoration-none {
+    text-decoration: none !important;
+  }
+}
+@media (max-width: 640px) {
+  .sm-dashed {
+    text-decoration: dashed !important;
+  }
+  .sm-dotted {
+    text-decoration: dotted !important;
+  }
+  .sm-underline {
+    text-decoration: underline !important;
+  }
+  .sm-line-through {
+    text-decoration: line-through !important;
+  }
+  .sm-decoration-none {
+    text-decoration: none !important;
+  }
+}
+/* ======================= Emd-Text-Decoration ======================= */
+
+/* ======================= Start-Text-transform ======================= */
+.capitalize {
+  text-transform: capitalize !important;
+}
+.uppercase {
+  text-transform: uppercase !important;
+}
+.lowercase {
+  text-transform: lowercase !important;
+}
+@media (max-width: 1224px) and (min-width: 913px) {
+  .lp-capitalize {
+    text-transform: capitalize !important;
+  }
+  .lp-uppercase {
+    text-transform: uppercase !important;
+  }
+  .lp-lowercase {
+    text-transform: lowercase !important;
+  }
+}
+@media (max-width: 912px) and (min-width: 641px) {
+  .md-capitalize {
+    text-transform: capitalize !important;
+  }
+  .md-uppercase {
+    text-transform: uppercase !important;
+  }
+  .md-lowercase {
+    text-transform: lowercase !important;
+  }
+}
+@media (max-width: 640px) {
+  .sm-capitalize {
+    text-transform: capitalize !important;
+  }
+  .sm-uppercase {
+    text-transform: uppercase !important;
+  }
+  .sm-lowercase {
+    text-transform: lowercase !important;
+  }
+}
+/* ======================= Emd-Text-transform ======================= */
